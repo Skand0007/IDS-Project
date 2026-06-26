@@ -1,0 +1,10 @@
+scapy
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+seaborn
+xgboost
+fpdf
+requests
